@@ -6,11 +6,13 @@ This Tableau dashboard provides visualizations of the 2016 World Happiness Repor
 <img src="images/WHR.jpg?raw=true"/>             
 
 ---
-<!-- [Project 2 Title](/pdf/sample_presentation.pdf) -->
+[Dog Breed Ownership](https://github.com/Morgan-Fry/dog-breed-ownership/blob/main/Final_Morgan.Fry.ipynb)
+<br>
+This python script program analyzes a dataset of various dog breeds and their characteristics. It is meant to aide in the decision making process for potential dog owners by providing information on various needs that dogs have.  This program allows for the user to input ideal characteristics and commitment constraints and will output a set of dog breeds that fit the user's lifestyle best.
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
-<!-- [Project 3 Title](http://example.com/) -->
+<!-- [Project 2 Title](/pdf/sample_presentation.pdf) -->
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
