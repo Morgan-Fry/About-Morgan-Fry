@@ -1,8 +1,8 @@
 ## Portfolio
 
----
-
 [World Happiness Report 2016](https://public.tableau.com/views/WorldHappinessReport2016_17719726238440/WHRDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+<br>
+This Tableau dashboard provides visualizations of the 2016 World Happiness Report. Explore the regionality of happiness score along with key contributing factors such as GDP.
 <img src="images/WHR.jpg?raw=true"/>             
 
 ---
