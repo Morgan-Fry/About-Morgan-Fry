@@ -12,20 +12,9 @@ This python script program analyzes a dataset of various dog breeds and their ch
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
-<!-- [Project 2 Title](/pdf/sample_presentation.pdf) -->
-<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
-
----
-
-<!-- ### Category Name 2 -->
-
-<!-- - [Project 1 Title](http://example.com/) -->
-<!-- - [Project 2 Title](http://example.com/) -->
-<!-- - [Project 3 Title](http://example.com/) -->
-<!-- - [Project 4 Title](http://example.com/) -->
-<!-- - [Project 5 Title](http://example.com/) -->
-
----
+[Omaha Housing Market Trends](https://github.com/Morgan-Fry/omaha-housing-market-trends/blob/main/Final.Group3.pdf)
+<br>
+<b>R</b> is utilized in this collaborative project that explores Omaha housing market trends.  My most significant contribution to this work includes fitting a linear model to predict the sales price of a home as well as creating an interactive web app that allows the user to input variables to predict the value of their homes.
 
 
 
